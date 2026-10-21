@@ -336,11 +336,11 @@ A plugin for [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) th
 
 ### TrafficMonitor AI Balance
 
-用于在 Windows [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 任务栏显示 AI 服务商余额和今日消费。支持 Sub2API、DeepSeek、Kimi 和 One-API；带内置供应商管理、Windows DPAPI Key 加密和多家供应商轮换。
+用于在 Windows [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) 任务栏显示 AI 服务商余额和今日消费。支持 Sub2API、DeepSeek、Kimi、One-API，以及千问/小米 Token Plan 用量（Cookie）；带内置供应商管理、Windows DPAPI 加密和多家供应商轮换。
 
 ![](https://github.com/StephenBoyMi/trafficmonitor-ai-balance/raw/main/preview-plugin.png)
 
-* 版本：V2.1.0（x64）
+* 版本：V2.2.0（x64）
 * 作者：[StephenBoyMi](https://github.com/StephenBoyMi)
 * 主页：[StephenBoyMi/trafficmonitor-ai-balance](https://github.com/StephenBoyMi/trafficmonitor-ai-balance)
 * 下载链接：https://github.com/StephenBoyMi/trafficmonitor-ai-balance/releases/latest

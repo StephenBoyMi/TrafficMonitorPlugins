@@ -324,11 +324,11 @@ A generic HTTP / JSON fetcher plugin for [TrafficMonitor](https://github.com/zho
 
 ### TrafficMonitor AI Balance
 
-A TrafficMonitor plugin that displays AI provider balance and today's spend in the taskbar. Supports Sub2API, DeepSeek, Kimi and One-API, with a built-in provider manager, Windows DPAPI key encryption, and rotation when multiple providers change.
+A TrafficMonitor plugin that displays AI provider balance and today's spend in the taskbar. Supports Sub2API, DeepSeek, Kimi, One-API and the Qwen / Xiaomi Token Plan usage APIs (Cookie based), with a built-in provider manager, Windows DPAPI encryption, and rotation when multiple providers change.
 
 ![](https://github.com/StephenBoyMi/trafficmonitor-ai-balance/raw/main/preview-plugin.png)
 
-* Version: V2.1.0 (x64)
+* Version: V2.2.0 (x64)
 * Author: [StephenBoyMi](https://github.com/StephenBoyMi)
 * Homepage: [StephenBoyMi/trafficmonitor-ai-balance](https://github.com/StephenBoyMi/trafficmonitor-ai-balance)
 * Download url: https://github.com/StephenBoyMi/trafficmonitor-ai-balance/releases/latest
