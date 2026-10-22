@@ -340,7 +340,7 @@ A plugin for [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) th
 
 ![](https://github.com/StephenBoyMi/trafficmonitor-ai-balance/raw/main/preview-plugin.png)
 
-* 版本：V2.2.0（x64）
+* 版本：V2.2.1（x64）
 * 作者：[StephenBoyMi](https://github.com/StephenBoyMi)
 * 主页：[StephenBoyMi/trafficmonitor-ai-balance](https://github.com/StephenBoyMi/trafficmonitor-ai-balance)
 * 下载链接：https://github.com/StephenBoyMi/trafficmonitor-ai-balance/releases/latest
