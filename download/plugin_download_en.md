@@ -328,7 +328,7 @@ A TrafficMonitor plugin that displays AI provider balance and today's spend in t
 
 ![](https://github.com/StephenBoyMi/trafficmonitor-ai-balance/raw/main/preview-plugin.png)
 
-* Version: V2.2.1 (x64)
+* Version: V2.2.2 (x64)
 * Author: [StephenBoyMi](https://github.com/StephenBoyMi)
 * Homepage: [StephenBoyMi/trafficmonitor-ai-balance](https://github.com/StephenBoyMi/trafficmonitor-ai-balance)
 * Download url: https://github.com/StephenBoyMi/trafficmonitor-ai-balance/releases/latest
